@@ -1,0 +1,138 @@
+﻿  main.cpp
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(68,52): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(69,56): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(70,45): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(71,46): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(72,40): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(285,33): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(493,45): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(495,46): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(506,54): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(507,56): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(508,43): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(512,55): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(513,57): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(543,52): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(545,29): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(559,53): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(561,30): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(568,53): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(570,30): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(577,53): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(579,30): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(586,53): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(588,30): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(595,53): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(597,30): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(604,54): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(606,31): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(613,54): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(615,31): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(623,55): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(625,34): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(632,53): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(634,30): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(641,53): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(643,30): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(650,54): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(652,32): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(659,54): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(661,31): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(668,54): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(670,31): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(677,57): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(679,35): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(688,30): warning C4305: '+=' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(693,34): warning C4305: '-=' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(705,26): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(708,35): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(713,42): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(714,44): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(715,32): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(716,33): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(722,66): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(723,68): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(724,54): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(725,55): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(816,49): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(817,49): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(818,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(824,60): warning C4305: 'argument' : troncation de 'double' à 'float'
+X:\tout le reste\visual studio 2022 project\Flappy Dunk\main.cpp(825,64): warning C4305: 'argument' : troncation de 'double' à 'float'
+  Flappy Dunk.vcxproj -> X:\tout le reste\visual studio 2022 project\Flappy Dunk\x64\Debug\Flappy Dunk.exe
